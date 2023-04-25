@@ -1,3 +1,3 @@
-# Mate Companion App
+# Mate Companion
 
 Native iOS application - Fullstack
