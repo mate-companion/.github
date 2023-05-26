@@ -14,5 +14,5 @@
 > **Note:** Compatible avec une version supérieure à iOS 16.1
 
 
-Contact : jules.gazengel@outlook.fr 
+Contact : jules.gazengel@outlook.fr  
 Documentation : https://mate-companion.github.io/docs/
