@@ -15,4 +15,4 @@
 
 
 Contact : jules.gazengel@outlook.fr  
-Documentation : https://mate-companion.github.io/docs/
+Documentation : coming soon...
