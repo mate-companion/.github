@@ -1,7 +1,7 @@
 # Mate Companion
 
 ## Introduction
-**Mate Companion** est un projet qui sert de base de développement pour une application iOS avec des services back-end créés de A à Z pour récupérer des données et les afficher en temps réel dans l'application. Le but est de pouvoir appliquer cela à n'importe quel projet. Ici, c'est une app pour suivre l'actualité de l'équipe e-sport Gentlemates. Voir la liste ci-dessous.
+**Mate Companion** est un projet d'application iOS avec des services back-end créés de A à Z pour récupérer des données et les afficher en temps réel dans l'application. Le but est de pouvoir appliquer cela à n'importe quel projet. Ici, c'est une app pour suivre l'actualité de l'équipe e-sport Gentlemates. Voir la liste ci-dessous.
 
 
 
