@@ -15,6 +15,9 @@
 
 > **Note:** Compatible avec iOS 16.1 ou version supérieure.
 
+## Informations
+
+Cette application n'est pas affiliée à Gentlemates.  
 
 Contact : jules.gazengel@outlook.fr  
 Documentation : bientôt disponible
