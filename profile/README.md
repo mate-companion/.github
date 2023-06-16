@@ -1,7 +1,7 @@
 # Mate Companion
 
 ## Introduction
-**Mate Companion** est un projet d'application iOS autonome qui récupère des données et les affiche en temps réel. Le but est de pouvoir appliquer cela à n'importe quel projet d'app iOS. Ici, c'est une app qui suit l'actualité de l'équipe e-sport Gentlemates. Voir ci-dessous le contenu de l'app:
+**Mate Companion** est un projet d'application iOS autonome qui récupère des données et les affiche en temps réel. Ici, l'app suit l'actualité de l'équipe e-sport Gentlemates. Le but est de pouvoir appliquer ce modèle à différents projets Swift. Voir ci-dessous le contenu de l'app:
 
 
 
